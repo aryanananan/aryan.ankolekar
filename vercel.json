@@ -1,0 +1,17 @@
+{
+  "rewrites": [
+    { "source": "/about", "destination": "/about.html" },
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/insights", "destination": "/insights/insights.html" },
+    { "source": "/insights/hamming", "destination": "/insights/hamming.html" },
+    { "source": "/insights/learning-rate", "destination": "/insights/learning-rate.html" },
+    { "source": "/insights/hn-adam", "destination": "/insights/hn-adam.html" },
+    { "source": "/insights/case-study", "destination": "/insights/case-study.html" },
+    { "source": "/insights/tags", "destination": "/insights/tags/index.html" },
+    { "source": "/insights/tags/machine-learning", "destination": "/insights/tags/machine-learning.html" },
+    { "source": "/insights/tags/deep-learning", "destination": "/insights/tags/deep-learning.html" },
+    { "source": "/insights/tags/algorithms", "destination": "/insights/tags/algorithms.html" },
+    { "source": "/insights/tags/case-study", "destination": "/insights/tags/case-study.html" },
+    { "source": "/insights/tags/apple", "destination": "/insights/tags/apple.html" }
+  ]
+}
