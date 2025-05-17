@@ -286,7 +286,7 @@ li {
 /* Add this media query at the end of the root styles.css file */
 @media (max-width: 600px) {
   .main-content {
-    padding: 40px 2.5rem;
+    padding: 40px 1.5rem;
   }
   .tags-menu {
     position: static;
